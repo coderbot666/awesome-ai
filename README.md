@@ -157,17 +157,20 @@ Once Upon a Bot:
 
 ## AI Text to Video Models:
 
-Cog Video: 
+Cog Video:
 [https://replicate.com/nightmareai/cogvideo](https://replicate.com/nightmareai/cogvideo)
 
-Google Imagen Video: 
+Google Imagen Video:
 [https://imagen.research.google/video/](https://imagen.research.google/video/)
 
-Meta Make a Video: 
+Meta Make a Video:
 [https://makeavideo.studio/](https://makeavideo.studio/)
 
-More Text to Video: 
+More Text to Video:
 [https://pollinations.ai/c/Video](https://pollinations.ai/c/Video)
+
+PVID (Free, 100 credits):
+[http://pvid.app/](http://pvid.app/) - AI video generator with Kling 3.0, Sora 2, Veo 3.1. Image-to-video, text-to-video, video-to-video.
 
 
 
