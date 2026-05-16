@@ -125,6 +125,9 @@ Text to Pokemon:
 Wombo (Free & Paid) 
 [https://app.wombo.art/](https://app.wombo.art/)
 
+LogicBalls (Free & Paid) 
+[https://logicballs.com/tools/image-generation](https://logicballs.com/tools/image-generation)
+
 
 
 ## AI Text Models:
@@ -216,6 +219,9 @@ SoundRaw Music Generator:
 
 VoiceFixer Audio Restoration: 
 [https://huggingface.co/spaces/akhaliq/VoiceFixer](https://huggingface.co/spaces/akhaliq/VoiceFixer)
+
+Kveeky AI Voiceover Tool: 
+[https://kveeky.com//](https://kveeky.com/)
 
 
 
