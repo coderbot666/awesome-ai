@@ -60,6 +60,7 @@ Legend:
   - [🆓💳 Visme AI Image — visual content generator](#visme-ai-image)
   - [🆓💳 RenderNet AI — character consistency](#rendernet-ai)
   - [🆓💳 SeaArt — large model hub](#seaart)
+  - [🆓💳Seedream 4 Multi-model](#seedream4-video)
 
 - [AI Text Models](#ai-text-models)
   - [🆓💳 AI21 Studio — Jurassic LLMs](#ai21-studio)
