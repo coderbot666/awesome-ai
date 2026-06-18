@@ -411,6 +411,10 @@ Legend:
 [https://www.seaart.ai/](https://www.seaart.ai/)  
 *Huge model hub, similar to Civitai but with generation.* **Pricing:** Freemium.
 
+### Seedream4 Video
+[https://seedream4.video](https://seedream4.video)  
+*Multi-model AI image generator (Seedream 4.0/4.5/5.0/5.0 Lite) + image-to-video animation (Kling) in one browser workflow.* **Pricing:** Freemium (free credits, no signup required for first generation).
+
 ---
 
 ## AI Text Models
